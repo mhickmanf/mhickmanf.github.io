@@ -17,13 +17,16 @@ Needs an image.
 Currently I am an Research Assistant for [Jon Calhoun](http://jonccal.people.clemson.edu/) of Electrical and Computer Engineering at Clemson University. I obtained a Bachlor's Degree in Computer Science from Coastal Carolina University, doing research for [William M. Jones](https://www.coastal.edu/academics/facultyprofiles/science/computingsciences/williammjonesjr/) and [USRC and Los Alamos National Laboratory](https://www.lanl.gov/projects/ultrascale-systems-research-center/staff-interns.php). At Clemson, my research will be involved in Data Compression. Take a look at my other interests and past research projects to learn more!
 
 ## Megan at a Glance
-> Research Assistant - Clemson University Holcombe Department of Electrical and Computer Engineering
-    Adviser: Jon Calhoun
-----------------
-> Master's Student (Currently Enrolled) - Clemson University Holcombe Department of Electrical and Computer Engineering, focus in TBD
-> B.S. Computer Science (2019) - Coastal Carolina University
-> Minor in Applied Mathematics (2019) - Coastal Carolina University
 
+
+:books: Research Assistant - Clemson University Holcombe Department of Electrical and Computer Engineering  
+* Adviser: Jon Calhoun  
+________  
+:orange_book: Master's Student (Currently Enrolled) - Clemson University Holcombe Department of Electrical and Computer Engineering
+  * Focus: TBD  
+
+:blue_book: B.S. Computer Science (2019) - Coastal Carolina University  
+:blue_book: Minor in Applied Mathematics (2019) - Coastal Carolina University  
 
 ## Contact information
 mlhickm@clemson.edu
