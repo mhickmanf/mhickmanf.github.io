@@ -1,4 +1,8 @@
+[Educational History](education.md) | [Employment History](employment.md)  | [Publications, Presentations, and Posters](publications.md) | [Extracurrilcular Activities](activities.md) | [Academic Accomplishments](accomplishments.md) | [Skills](skills.md)   
+-----|-----|-----|-----|-----|-----
 
+
+## clemson
 While at Clemson University:
 (1) Ekklesia Christian Church Website Development Leader - Designed website: http://ekklesiachristianchurch.com/
 
