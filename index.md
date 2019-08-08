@@ -1,3 +1,14 @@
+[Educational History](education.md) | [Employment History](employment.md)  | [Publications, Presentations, and Posters](publications.md) | [Extracurrilcular Activities](activities.md) | [Academic Accomplishments](accomplishments.md) | [Skills](skills.md)   
+-----|-----|-----|-----|-----|-----
+
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+```
+
 # Greetings!
 
 '''markdown
