@@ -1,3 +1,4 @@
+
 [Educational History](education.md) | [Employment History](employment.md)  | [Publications, Presentations, and Posters](publications.md) | [Extracurrilcular Activities](activities.md) | [Academic Accomplishments](accomplishments.md) | [Skills](skills.md)   
 -----|-----|-----|-----|-----|-----
 
