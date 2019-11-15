@@ -1,6 +1,5 @@
-|------:|-------|--------|--------|--------|
-|[- Education](education.md) | [- Employment](employment.md) | [- Research](publications.md) | [- Extracurrilculars](activities.md) | [- Accomplishments](accomplishments.md) | [- Skills](skills.md) |
-
+|------|-------|-------|--------|--------|--------|
+|[ ★ ](index.md) | [Education](education.md) | [Employment](employment.md) | [Research](publications.md) | [Extracurriculars](activities.md) | [Accomplishments](accomplishments.md) | [Skills](skills.md) |
 
 ## Employment History
 
@@ -16,6 +15,10 @@ Implemented an array of data analytic tools including R, Python, ElasticSearch, 
 Engaged in weekly team progress meetings to discuss findings.  
 Participated in research on-site and off-site year-round.  
 ```
+
+ <div style="text-align:center"><img src="lanl-2018.jpg" alt="LANL"/></div>
+
+
 MALWARE ANALYST | [Wetstone Technologies](https://www.wetstonetech.com/) | Myrtle Beach, SC | Aug. 2016 - July 2017
 ```markdown
 Researched various types of malware and obtained samples or MD5 hashes to include in a repository.  

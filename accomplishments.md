@@ -1,5 +1,5 @@
-|------:|-------|--------|--------|--------|
-|[- Education](education.md) | [- Employment](employment.md) | [- Research](publications.md) | [- Extracurrilculars](activities.md) | [- Accomplishments](accomplishments.md) | [- Skills](skills.md) |
+|------|-------|-------|--------|--------|--------|
+|[ ★ ](index.md) | [Education](education.md) | [Employment](employment.md) | [Research](publications.md) | [Extracurriculars](activities.md) | [Accomplishments](accomplishments.md) | [Skills](skills.md) |
 
 ## Awards
 (7) Outstanding Computer Science Student Award (May 2019)

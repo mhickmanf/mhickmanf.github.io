@@ -1,5 +1,5 @@
-|------:|-------|--------|--------|--------|
-|[- Education](education.md) | [- Employment](employment.md) | [- Research](publications.md) | [- Extracurrilculars](activities.md) | [- Accomplishments](accomplishments.md) | [- Skills](skills.md) |
+|------|-------|-------|--------|--------|--------|
+|[ ★ ](index.md) | [Education](education.md) | [Employment](employment.md) | [Research](publications.md) | [Extracurriculars](activities.md) | [Accomplishments](accomplishments.md) | [Skills](skills.md) |
 
 
 ## PUBLICATIONS
@@ -15,7 +15,7 @@ https://ieeexplore.ieee.org/document/8539171
 
 (3) Megan Hickman Fulp, Nathan DeBardeleben, William M. Jones. “HPC State Anomaly Detection and Visualization with SaNSA.” Poster presented at: USRC Summer Research Symposium. July 31, 2019; Los Alamos, NM.
 
-(2) Megan Hickman Fulp, Nathan DeBardeleben, William M. Jones. “HPC State Anomaly Detection and Visualization with SaNSA.” Poster presented at: HPC SHOWCASE UM HOW DO I CITE. August 1, 2019; Los Alamos, NM.
+(2) Megan Hickman Fulp, Nathan DeBardeleben, William M. Jones. “HPC State Anomaly Detection and Visualization with SaNSA.” Poster presented at: LANL HPC Showcase. August 1, 2019; Los Alamos, NM.
 
 (1) Megan Hickman, Nathan DeBardeleben, William M. Jones. “Enhancing HPC System Log Analysis by Identifying Message Origin in Source Code.” Poster presented at: USRC Summer Research Symposium. 2018 Aug 6; Los Alamos, NM.
 
