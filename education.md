@@ -1,11 +1,10 @@
-[Educational History](education.md) | [Employment History](employment.md)  | [Publications, Presentations, and Posters](publications.md) | [Extracurrilcular Activities](activities.md) | [Academic Accomplishments](accomplishments.md) | [Skills](skills.md)   
------|-----|-----|-----|-----|-----
+|------:|-------|--------|--------|--------|
+|[- Education](education.md) | [- Employment](employment.md) | [- Research](publications.md) | [- Extracurrilculars](activities.md) | [- Accomplishments](accomplishments.md) | [- Skills](skills.md) |
 
 
-## Educational History
+## Education History
 
-
-Clemson University  
+**Clemson University**  
 M.S. in Computer Engineering  
 Focus in TBD  
 4.0 GPA Scale: TBD  
@@ -14,17 +13,17 @@ Clemson, SC
 
   
     
-Coastal Carolina University  
+**Coastal Carolina University**    
 B.S. in Computer Science  
+Minor in Applied Mathematics
 4.0 GPA Scale: 3.950  
-Summa Cum Laude and as Part of the Honors Program  
+Summa Cum Laude, as Part of the Honors Program  
 Conway, SC  
 (FA 2015 - SP 2019)  
 
 
 
-
-Ashley Ridge High School  
+**Ashley Ridge High School**
 4.0 GPA Scale: 3.876  
 SC UGP GPA Scale: 4.667  
 Class Rank: 11/450  
