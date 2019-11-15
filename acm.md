@@ -1,13 +1,12 @@
-|------:|-------|--------|--------|--------|
-|[- Education](education.md) | [- Employment](employment.md) | [- Research](publications.md) | [- Extracurrilculars](activities.md) | [- Accomplishments](accomplishments.md) | [- Skills](skills.md) |
+|------|-------|-------|--------|--------|--------|
+|[ ★ ](index.md) | [Education](education.md) | [Employment](employment.md) | [Research](publications.md) | [Extracurriculars](activities.md) | [Accomplishments](accomplishments.md) | [Skills](skills.md) |
 
-
+# ACM, the Association for Computing Machinery
  <div style="text-align:center"><img src="logo.jpg" alt="ACM" height="450"/></div>
 
 
-## The Start  
 
-ACM stands for the Association for Computing Machinery. In this student chapter of the official international scientific and industrial computer society, we host various presentations from a variety of speakers, discuss current technology developments, and engage in hands-on projects. Even though our focus is on giving CS/IS/IT majors real world experience, we also offer events for students of all majors to enjoy. Please look through the photos to see all of our past projects. All of our events are open to all majors and we encourage non-technology majors to participate due to the increasing technology dependence in the world. This is a club for all levels of knowledge and questions are encouraged.
+ In this student chapter of the official international scientific and industrial computer society, we hosted various presentations from a variety of speakers, discussed current technology developments, and engaged in hands-on projects. Even though our focus was on giving CS/IS/IT majors real world experience, we also offered events for students of all majors to enjoy. Please look through the photos to see all of our past projects. All of our events were open to all majors, as we encouraged non-technology majors to participate due to the increasing technology dependence in the world.
 
 Click [Here](https://coastal.campuslabs.com/engage/organization/ccuacmstudchapt) for more information.
 

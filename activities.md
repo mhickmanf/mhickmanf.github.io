@@ -1,8 +1,9 @@
-|------:|-------|--------|--------|--------|
-|[- Education](education.md) | [- Employment](employment.md) | [- Research](publications.md) | [- Extracurrilculars](activities.md) | [- Accomplishments](accomplishments.md) | [- Skills](skills.md) |
+|------|-------|-------|--------|--------|--------|
+|[ ★ ](index.md) | [Education](education.md) | [Employment](employment.md) | [Research](publications.md) | [Extracurriculars](activities.md) | [Accomplishments](accomplishments.md) | [Skills](skills.md) |
 
 ## (2019 - 2021) While at Clemson University:
-(1) Ekklesia Christian Church Website Development Leader - Designed website: http://ekklesiachristianchurch.com/ (FA 2018 - Present)
+(1) Ekklesia Christian Church Website Development Leader - Designed and maintained website. (FA 2018 - Present)  
+[http://ekklesiachristianchurch.com/](http://ekklesiachristianchurch.com/)
 
 
 
@@ -13,11 +14,14 @@
 
 (9) Upsilon Pi Epsilon - Vice President (FA 2019)
 
-(8) Ekklesia Christian Church Website Development Leader - Designed and maintain website (FA 2018 - Present)
-      
-      http://ekklesiachristianchurch.com/ 
+(8) Ekklesia Christian Church Website Development Leader - Designed and maintain website (FA 2018 - Present)  http://ekklesiachristianchurch.com/ 
 
-(7) Ekklesia Christian Church Setup Crew Volunteer - Prepared stage for events (SP 2016 - SP 2018)
+(7) Ekklesia Christian Church Media Team Volunteer- Prepared stage for events (SP 2016 - SP 2019)  
+Setup crew volunteer, controlled lyrics display during worship, aided in app and website development.
+
+
+ <div style="text-align:center"><img src="media_team.jpg" alt="Media Team" width="750"/></div>
+
 
 (6) CCU Women in STEM Fellowship - Women in the Sciences Fellowship, Mentor (SP 2018 - FA 2019)
 
@@ -31,6 +35,22 @@
 
 (1) Honors Program Activities Club - Member (FA 2015 - SP 2016)
 
+### Projects
+I completed various projects during this time, including:  
+
+(1) Useless Box  
+(2) Motion Sensor Turret  
+(3) LED Infinity Goggles  
+(4) LED Cube Lamp  
+(5) Useless Box 2.0  
+(6) Remote Controlled Nerf Turret
+
+<img src="uselessBox.gif" alt="Useless Box V1" height="250"/>
+<img src="jerry.gif" alt="Jerry - Motion Sensor Turret" height="350"/>
+<img src="me.jpg" alt="Infinity Goggles" height="350"/>
+<img src="cube.jpg" alt="Led Cube" height="190"/>
+<img src="useless2.gif" alt="Useless Box 2.0" height="190"/>
+<img src="tom.gif" alt="TOM" height="190"/>
 
 ## (2011 - 2015) While at Ashley Ridge High School:
 (11) South Carolina Young Adult Book Award Readers Club - Member (11-13), Vice-President (13-15)
