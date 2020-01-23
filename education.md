@@ -4,18 +4,14 @@
 
 ## Education History
 
-**Clemson University**  
+**[Clemson University](https://www.clemson.edu/cecas/departments/ece/)**  
 M.S. in Computer Engineering  
 Focus in TBD  
-4.0 GPA Scale: TBD  
+4.0 GPA Scale: 4.0  
 Clemson, SC  
 (FA 2019 - SP 2021)  
 
-  
-<img style="float: right;" img src="me3.jpg" alt="CCU Graduation" height="350"/>
-  
-  
-**Coastal Carolina University**    
+**[Coastal Carolina University](https://www.coastal.edu/computing/)**    
 B.S. in Computer Science  
 Minor in Applied Mathematics
 4.0 GPA Scale: 3.950  
@@ -23,10 +19,7 @@ Summa Cum Laude, as Part of the Honors Program
 Conway, SC  
 (FA 2015 - SP 2019)  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-**Ashley Ridge High School**  
+**[Ashley Ridge High School](https://www.ddtwo.org/Domain/203)**  
 4.0 GPA Scale: 3.876  
 SC UGP GPA Scale: 4.667  
 Class Rank: 11/450  
