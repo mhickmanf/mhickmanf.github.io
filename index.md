@@ -34,7 +34,7 @@
 
 ## Contact information
 * mlhickm@clemson.edu
-* <a href="https://mhickmanf.github.io/resume_website/documents/resume.pdf" target="_blank">Resume</a>
+* <a href="https://mhickmanf.github.io/documents/resume.pdf" target="_blank">Resume</a>
 * [linkedIn](https://www.linkedin.com/in/megan-hickman-fulp-3174a3125/)
 
 
