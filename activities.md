@@ -2,6 +2,13 @@
 |[ ★ ](index.md) | [Education](education.md) | [Employment](employment.md) | [Research](publications.md) | [Extracurriculars](activities.md) | [Accomplishments](accomplishments.md) | [Skills](skills.md) |
 
 ## (2019 - 2021) While at Clemson University:
+
+(2) SC 19 Student Volunteer. (November 2019)
+
+ <img src="pictures/sc19-volunteer1.jpg" alt="sc19 volunteer" height="180"/>
+ <img src="pictures/sc19.jpg" alt="sc19 volunteer" height="180"/>
+ <img src="pictures/sc19-volunteer2.jpg" alt="sc19 volunteer" height="180"/>
+
 (1) Ekklesia Christian Church Website Development Leader - Designed and maintained website. (FA 2018 - Present)  
 [http://ekklesiachristianchurch.com/](http://ekklesiachristianchurch.com/)
 
@@ -20,7 +27,7 @@
 Setup crew volunteer, controlled lyrics display during worship, aided in app and website development.
 
 
- <div style="text-align:center"><img src="media_team.jpg" alt="Media Team" width="750"/></div>
+ <div style="text-align:center"><img src="pictures/media_team.jpg" alt="Media Team" width="750"/></div>
 
 
 (6) CCU Women in STEM Fellowship - Women in the Sciences Fellowship, Mentor (SP 2018 - FA 2019)
@@ -45,12 +52,12 @@ I completed various projects during this time, including:
 (5) Useless Box 2.0  
 (6) Remote Controlled Nerf Turret
 
-<img src="uselessBox.gif" alt="Useless Box V1" height="250"/>
-<img src="jerry.gif" alt="Jerry - Motion Sensor Turret" height="350"/>
-<img src="me.jpg" alt="Infinity Goggles" height="350"/>
-<img src="cube.jpg" alt="Led Cube" height="190"/>
-<img src="useless2.gif" alt="Useless Box 2.0" height="190"/>
-<img src="tom.gif" alt="TOM" height="190"/>
+<img src="pictures/uselessBox.gif" alt="Useless Box V1" height="250"/>
+<img src="pictures/jerry.gif" alt="Jerry - Motion Sensor Turret" height="350"/>
+<img src="pictures/me.jpg" alt="Infinity Goggles" height="350"/>
+<img src="pictures/cube.jpg" alt="Led Cube" height="190"/>
+<img src="pictures/useless2.gif" alt="Useless Box 2.0" height="190"/>
+<img src="pictures/tom.gif" alt="TOM" height="190"/>
 
 ## (2011 - 2015) While at Ashley Ridge High School:
 (11) South Carolina Young Adult Book Award Readers Club - Member (11-13), Vice-President (13-15)
