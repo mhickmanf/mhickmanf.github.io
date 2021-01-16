@@ -13,7 +13,7 @@ Click [Here](https://coastal.campuslabs.com/engage/organization/ccuacmstudchapt)
 ## Activities
 
 April 2019  
-We hosted a [STEM night](https://www.facebook.com/pg/theekklesialaunchpad/photos/?tab=album&album_id=320828341916389) for 7th-12th graders at The Launchpad. It consisted of a Nerf war (featuring a computer-operated Nerf turret we built), LED cube building (that we designed), an escape room (that we wrote), and games and snacks! 
+We hosted a [STEM night](https://www.facebook.com/pg/theekklesialaunchpad/photos/?tab=album&album_id=320828341916389) for 7th-12th graders at The Launchpad. It consisted of a Nerf war (featuring a computer-operated Nerf turret we built), LED cube DIY (that we designed), an escape room (that we wrote), and games and snacks! 
 
 <img src="pictures/1.jpg" alt="Stem Night Escape Room" height="350"/>
 <img src="pictures/2.jpg" alt="Stem Night Escape Room" height="350"/>

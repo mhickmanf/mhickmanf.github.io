@@ -11,13 +11,15 @@ Focus in TBD
 Clemson, SC  
 (FA 2019 - SP 2021)  
 
-**[Coastal Carolina University](https://www.coastal.edu/computing/)**    
-B.S. in Computer Science  
-Minor in Applied Mathematics
-4.0 GPA Scale: 3.950  
-Summa Cum Laude, as Part of the Honors Program  
-Conway, SC  
+**[Coastal Carolina University](https://www.coastal.edu/computing/)**
+<p>
+B.S. in Computer Science<br>
+Minor in Applied Mathematics<br>
+4.0 GPA Scale: 3.950<br>
+Summa Cum Laude, as Part of the Honors Program<br>
+Conway, SC<br>
 (FA 2015 - SP 2019)  
+</p>
 
 **[Ashley Ridge High School](https://www.ddtwo.org/Domain/203)**  
 4.0 GPA Scale: 3.876  

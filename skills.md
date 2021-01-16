@@ -15,7 +15,7 @@ Windows | Linux | OS X
 
 Programming Languages
 
-R | Python | PySpark | Java | C | SQL | HTML | Markdown 
+R | Python | C | CUDA | PySpark | Java | OpenCL | SQL | HTML
 
 Software
 

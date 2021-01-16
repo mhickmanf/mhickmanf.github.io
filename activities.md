@@ -3,7 +3,9 @@
 
 ## (2019 - 2021) While at Clemson University:
 
-(2) SC 19 Student Volunteer. (November 2019)
+(3) [SC 20](https://sc20.supercomputing.org/) (Virtual) Student Volunteer. (November 2020)
+
+(2) [SC 19](https://sc19.supercomputing.org/) Student Volunteer. (November 2019)
 
  <img src="pictures/sc19-volunteer1.jpg" alt="sc19 volunteer" height="180"/>
  <img src="pictures/sc19.jpg" alt="sc19 volunteer" height="180"/>
@@ -21,7 +23,7 @@
 
 (9) Upsilon Pi Epsilon - Vice President (FA 2019)
 
-(8) Ekklesia Christian Church Website Development Leader - Designed and maintain website (FA 2018 - Present)  http://ekklesiachristianchurch.com/ 
+(8) Ekklesia Christian Church Website Development Leader - Designed and maintain website (FALL 2018 - Present)  http://ekklesiachristianchurch.com/ 
 
 (7) Ekklesia Christian Church Media Team Volunteer- Prepared stage for events (SP 2016 - SP 2019)  
 Setup crew volunteer, controlled lyrics display during worship, aided in app and website development.
