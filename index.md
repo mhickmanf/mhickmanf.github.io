@@ -6,19 +6,17 @@
 # Greetings!
 
 <img style="float: left;" img src="pictures/me4.jpg" alt="Megan Hickman Fulp" height="300"/>
-&nbsp;&nbsp;&nbsp;&nbsp;
-
-&nbsp;&nbsp;Currently I am an Research Assistant for [Jon C. Calhoun](http://jonccal.people.clemson.edu/) of 
+&nbsp;&nbsp;Currently, I am an Research Assistant for [Jon C. Calhoun](http://jonccal.people.clemson.edu/) of 
 &nbsp;&nbsp;the Holcombe Dept. of Electrical and Computer 
 &nbsp;&nbsp;Engineering at Clemson University. I obtained a Bachelor’s 
 &nbsp;&nbsp;Degree in Computer Science from [Coastal Carolina 
 &nbsp;&nbsp;University](https://www.coastal.edu/computing/), doing research with [William M. Jones](https://www.coastal.edu/academics/facultyprofiles/science/computingsciences/williammjonesjr/) and [USRC 
-&nbsp;&nbsp;and Los Alamos National Laboratory](https://www.lanl.gov/projects/ultrascale-systems-research-center/staff-interns.php). My current research 
-&nbsp;&nbsp;has a focus on High-Performance Computing (HPC) and 
-&nbsp;&nbsp;Big Data Reduction. Take a look at my other interests and 
-&nbsp;&nbsp;past research projects to learn more!
+&nbsp;&nbsp;and Los Alamos National Laboratory](https://www.coastal.edu/computing/facultystaff/lanl-ccucollaboration/). 
 
-
+&nbsp;&nbsp;My research interests lie in High-Performance Computing 
+&nbsp;&nbsp;(HPC) and Big Data Reduction, specifically with data 
+&nbsp;&nbsp;sampling and lossy compression. Take a look at my other 
+&nbsp;&nbsp;interests and past research projects to learn more!
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

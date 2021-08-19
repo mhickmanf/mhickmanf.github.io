@@ -78,10 +78,6 @@ I completed various projects during this time, including:
 
 (4) Archery Team - Member (FA 2012 - SP 2014)
 
-      State Tournament: Scored 241/300
-
-      Local Tournament: Scored 202/300 
-
 (3) Tutored students in Digital Multimedia (2014)
 
 (2) English Honor Society - English Tutor (2012 - 2013)

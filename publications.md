@@ -3,10 +3,20 @@
 
 ## RESEARCH
 
-(Fall 2020 - Present) **Data Sampling**
+(Summer 2021 - Present) **Data Sampling**
+
+```markdown
+During the summer of 2021, I participated in my second year at Los Alamos National Lab's Data Science at Scale Summer School. Current day High Performance Computing (HPC) systems are capable of running large simulations that produce massive amounts of data, however the I/O capabilities have not increased at the same rate, creating a bottleneck. With this current research, I have applied several sampling-based data reduction methods on the Nyx Dataset (an adaptive mesh cosmological simulation that models dark matter and can produce petabytes of data) and evaluated the quality loss due to such operations. From this study, we develop our own sampling process.
+
+This research continues past the internship, where a scholarly publication is in progress.
+```
+
+(Summer 2020 - Spring 2021) **Spatial-Temporal Hybrid Data Sampling**
 
 ```markdown
 Over the summer, I was invited to be a part of the virtual 2020 Data Science at Scale Summer School as part of the Los Alamos Summer Fellowship. I was recruited to research In situ Data Analysis and Visualization Workflows. As high-performance computing grows into the exascale range, post-hoc analysis alone is becoming less viable. To overcome the storage and bandwidth bottlenecks, in situ data analysis and visualization selects, analyzes, reduces and extracts data from a scientific simulation as the results are still being generated, then the downsized results can be examined post-hoc. Current state-of-the-art sampling methods save data points if their region is deemed spatially or temporally important. Often, scientific datasets show strong correlation across time-steps, thus causing neighboring time-steps to be very similar. We aimed to exploit this correlation to devise a more useful sampling method - one that combines spatial and temporal sampling to choose higher quality samples from large scale data that will result in higher qualities than existing methods, post-reconstruction. This reseach continued past the internship, where it resulted in a scholarly publication at the 2020 IEEE International Workshop on Big Data Reduction (See 'Papers (3)') and several presentations (See 'Presentations').
+
+After the inital publication, we worked on enhancing the work by improving the performance of the method, in terms of quality and throughput. This work is still in progress.
 ```
 
 (Spring 2020) **CuSZ**

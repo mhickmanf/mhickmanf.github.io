@@ -6,7 +6,15 @@
 RESEARCH ASSISTANT | Clemson University | 08/2019 - Present | Mentor: [Jon C Calhoun](http://jonccal.people.clemson.edu/research.php#)
 
 ```markdown
-While achieving my MS, I am working on research at Clemson University under Dr. Calhoun as my thesis advisor. I have researched various topics under data reduction, including: lossy compression and data sampling, with sub topics of power consumption, Huffman encoding on GPUs and data visualization.
+While achieving my MS and PhD, I am working on research at Clemson University under Dr. Calhoun as my advisor. I have researched various topics under data reduction, focusing on lossy compression and data sampling. I have also analyzed the cost of doing such operations, including the power consumption and throughput of different data reduction methods, including their serial and parallelized versions.
+
+For more details, look under the "Research" tab.
+```
+
+[RESEARCH ASSISTANT](https://dssschool.org/) | Los Alamos National Lab | 05/2021-08/2021 | Mentor: [Ayan Biswas](http://ayanbiswas.net/)
+
+```markdown
+The Data Science at Scale School was created to introduce outstanding students to the lab to participate in research topics relevant to the overall mission at Los Alamos National Laboratory, with a focus on visualization and big data analysis. This internship gives students the opportunity to conduct research with Los Alamos scientists in independent research topics, that can also contribute to the student's own thesis or degree. As a part of the 2021 Summer School, I worked with my mentor to develop a sampling algorithm for the Nyx cosmological simulation. At the end of the summer experience, I presented my research findings and results at the Student Symposium.
 
 For more details, look under the "Research" tab.
 ```
@@ -14,15 +22,14 @@ For more details, look under the "Research" tab.
 [RESEARCH FELLOW](https://dssschool.org/) | Los Alamos National Lab | 05/2020 - 08/2020 | Mentor: [Ayan Biswas](http://ayanbiswas.net/)
 
 ```markdown
-The Data Science School at LANL researches topics relevant to the overall mission at Los Alamos National Laboratory, with a focus on visualization and data analysis. 
-As a part of the 2020 Data Science Summer School at LANL, I partcipated in the Los Alamos Summer Fellowship. This Fellowship gives students the opportunity to conduct research with Los Alamos scientists in independent research topics, that can also contribute to the student's own thesis or degree. During this time, I worked with my mentor to investigate the development and implementation of algorithms that combine sophisticated spatial and temporal sampling for in situ data reduction. At the end of the summer experience, I presented my research findings and results at the Student Symposium.
+As a part of the 2020 Data Science Summer School at LANL, I partcipated in the Los Alamos Summer Fellowship virtually. This Fellowship gives students the opportunity to conduct research with Los Alamos scientists in independent research topics, that can also contribute to the student's own thesis or degree. During this time, I worked with my mentor to investigate the development and implementation of algorithms that combine sophisticated spatial and temporal sampling for in situ data reduction. At the end of the summer experience, I presented my research findings and results at the Student Symposium.
 
 For more details, look under the "Research" tab.
 ```
 
 
 
-[RESEARCH ASSISTANT](https://www.coastal.edu/computing/facultystaff/lanl-ccucollaboration/#d.en.140722) | [Los Alamos National Lab](https://www.lanl.gov/projects/ultrascale-systems-research-center/staff-interns.php) & Coastal Carolina University | 08/2017 - 08/2019 | Mentors: [William Jones](https://www.coastal.edu/academics/facultyprofiles/science/computingsciences/williammjonesjr/) and [Nathan DeBardeleben](https://www.linkedin.com/in/nathan-debardeleben-b9a8031/)
+[RESEARCH ASSISTANT](https://www.coastal.edu/computing/facultystaff/lanl-ccucollaboration/#d.en.140722) | [Los Alamos National Lab](https://www.lanl.gov/projects/ultrascale-systems-research-center/staff-interns.php) & Coastal Carolina University | 08/2017-08/2019 | Mentors: [William Jones](https://www.coastal.edu/academics/facultyprofiles/science/computingsciences/williammjonesjr/) and [Nathan DeBardeleben](https://www.linkedin.com/in/nathan-debardeleben-b9a8031/)
 
 ```markdown
 I was hired as a research assistant to work with Dr. William Jones' research collaborations with LANL. This work had a primary focus on data analytics for HPC resilience, exposing me to tools including R, Python, ElasticSearch, and Apache Spark. My first year of research used capabilities from ElasticSearch and our own methods to develop a means to match source code lines with messages written to various HPC system logs. This research led me to an invitation for a summer internship at LANL in 2018, which resulted in a scholarly publication at the 2018 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW). 

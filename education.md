@@ -7,9 +7,9 @@
 **[Clemson University](https://www.clemson.edu/cecas/departments/ece/)**  
 M.S. in Computer Engineering  
 Focus in TBD  
-4.0 GPA Scale: 4.0  
+4.0 GPA Scale: 3.98  
 Clemson, SC  
-(FA 2019 - SP 2021)  
+(FA 2019 - Present)  
 
 **[Coastal Carolina University](https://www.coastal.edu/computing/)**
 <p>
