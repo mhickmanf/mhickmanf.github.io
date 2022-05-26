@@ -33,7 +33,7 @@
   - PhD of Science, Computer Engineering (ABET Accredited)
   - Cumulative GPA: 3.99
 
-* **MS Graduate Student** (2021) - Clemson University - Holcombe Department of Electrical and Computer Engineering
+* MS Graduate Student (2021) - Clemson University - Holcombe Department of Electrical and Computer Engineering
   - Master of Science, Computer Engineering (ABET Accredited)
   - Focus: Computer Systems Architecture  
   - Thesis Topic in Data Reduction Techniques  

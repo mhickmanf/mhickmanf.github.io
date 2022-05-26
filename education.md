@@ -5,11 +5,17 @@
 ## Education History
 
 **[Clemson University](https://www.clemson.edu/cecas/departments/ece/)**  
-M.S. in Computer Engineering  
-Focus in TBD  
-4.0 GPA Scale: 3.98  
+Ph.D. in Computer Engineering   
+4.0 GPA Scale: 3.99   
 Clemson, SC  
-(FA 2019 - Present)  
+(SP 2022 - Present)
+
+**[Clemson University](https://www.clemson.edu/cecas/departments/ece/)**  
+M.S. in Computer Engineering  
+Focus in Computer Systems Architecture   
+4.0 GPA Scale: 3.99  
+Clemson, SC  
+(FA 2019 - FA 2021)  
 
 **[Coastal Carolina University](https://www.coastal.edu/computing/)**
 <p>
