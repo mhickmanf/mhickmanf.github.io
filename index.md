@@ -29,10 +29,15 @@
   - Researched how to efficiently parallelize (via CUDA) the generation of frequency distributions to alleviate the Huffman Encoding bottleneck in the GPU implementation of the lossy compressor SZ.
   - Investigated the development and implementation of in situ algorithms that combine spatial and temporal sampling to enable massive data reductions without losing important information.
 
-* **MS Graduate Student** (Currently Enrolled) - Clemson University - Holcombe Department of Electrical and Computer Engineering
+* **PhD Graduate Student** (Currently Enrolled) - Clemson University - Holcombe Department of Electrical and Computer Engineering
+  - PhD of Science, Computer Engineering (ABET Accredited)
+  - Cumulative GPA: 3.99
+
+* **MS Graduate Student** (2021) - Clemson University - Holcombe Department of Electrical and Computer Engineering
   - Master of Science, Computer Engineering (ABET Accredited)
-  - Focus: TBD
-  - Cumulative GPA: 4.0
+  - Focus: Computer Systems Architecture  
+  - Thesis Topic in Data Reduction Techniques  
+  - Cumulative GPA: 3.99
 
 * B.S. Computer Science (Honors) (2019) - Coastal Carolina University - Department of Computing Sciences
   - Cumulative GPA: 3.950
@@ -43,6 +48,7 @@
 ## Contact information
 * mlhickm@clemson.edu
 * <a href="https://mhickmanf.github.io/documents/resume.pdf" target="_blank">Resume</a>
+* <a href="https://mhickmanf.github.io/documents/cv.pdf" target="_blank">CV</a>  
 * [linkedIn](https://www.linkedin.com/in/megan-hickman-fulp-3174a3125/)
 
 
